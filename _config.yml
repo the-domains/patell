@@ -1,0 +1,14 @@
+layout_spectrum: 0.7238820451311767
+typography_spectrum: 0.6790457090828568
+color:
+  brandStrength: 0.13479473465122283
+  lightness: 0.2861542385071516
+  saturation: 0.2868110719136894
+  rhythmicContrast: 0.15843804832547903
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: patell
